@@ -1,0 +1,5 @@
+D:\Developmen\Стиллмен\Project7.3_3_home2\Project7.3_3_home2\obj\Debug\Project7.3_3_home2.csprojResolveAssemblyReference.cache
+D:\Developmen\Стиллмен\Project7.3_3_home2\Project7.3_3_home2\obj\Debug\Project7._3_3_home2.Form1.resources
+D:\Developmen\Стиллмен\Project7.3_3_home2\Project7.3_3_home2\obj\Debug\Project7._3_3_home2.Properties.Resources.resources
+D:\Developmen\Стиллмен\Project7.3_3_home2\Project7.3_3_home2\obj\Debug\Project7.3_3_home2.csproj.GenerateResource.cache
+D:\Developmen\Стиллмен\Project7.3_3_home2\Project7.3_3_home2\obj\Debug\Project7.3_3_home2.csproj.CoreCompileInputs.cache
